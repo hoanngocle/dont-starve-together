@@ -1,0 +1,18 @@
+[00:10:36]: [Announcement] unknown : has arrived! : 
+[00:10:36]: [Announcement] unknown : data loaded! : 
+[00:10:36]: [Announcement] Nyx   successfully entered game   Completed Achievement [New Beginning]
+[00:11:30]: [Say] (KU_3hXMGHV4) Nyx: u
+[00:15:22]: [Announcement] unknown : has arrived! : 
+[00:19:16]: [Announcement] Nyx   ate food for the first time   Completed Achievement [First Bite]
+[00:34:29]: [Announcement] unknown : has arrived! : 
+[00:47:43]: [Mod Warning] 󰀍 Cherry Forest 󰀍 is out of date and needs to be updated for new users to be able to join the server.
+[00:49:43]: [Mod Warning] 󰀍 Cherry Forest 󰀍 is out of date and needs to be updated for new users to be able to join the server.
+[00:51:43]: [Mod Warning] 󰀍 Cherry Forest 󰀍 is out of date and needs to be updated for new users to be able to join the server.
+[00:53:44]: [Mod Warning] 󰀍 Cherry Forest 󰀍 is out of date and needs to be updated for new users to be able to join the server.
+[00:55:46]: [Mod Warning] 󰀍 Cherry Forest 󰀍 is out of date and needs to be updated for new users to be able to join the server.
+[01:00:01]: [Announcement] unknown : has arrived! : 
+[01:04:50]: [Announcement] unknown : has arrived! : 
+[01:05:34]: [Announcement] Nyx   ate a cooked mandrake   Completed Achievement [420]
+[01:06:20]: [Announcement] Nyx   gathered 3 roses   Completed Achievement [Queen of Flowers]
+[01:16:09]: [Announcement] Nyx   Killed the Ancient Guardian   Completed Achievement [Achient Killer 1]
+[01:17:48]: [Announcement] Nyx   ate a guardian's horn   Completed Achievement [Missclick?]

@@ -1,0 +1,4 @@
+[00:07:07]: [Announcement] unknown : has arrived! : 
+[00:07:07]: [Announcement] unknown : data loaded! : 
+[00:07:07]: [Announcement] Emilia   successfully entered game   Completed Achievement [New Beginning]
+[00:10:19]: [Announcement] Emilia   ate food for the first time   Completed Achievement [First Bite]

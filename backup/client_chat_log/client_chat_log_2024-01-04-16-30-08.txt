@@ -1,0 +1,5 @@
+[00:01:53]: [Announcement] unknown : has arrived! : 
+[00:06:58]: [Announcement] unknown : has arrived! : 
+[00:34:34]: [Announcement] Emilia   Giết the Ancient Guardian   Hoàn thành Thành tựu [Bò tót cổ xưa]
+[00:34:39]: [Death Announcement] Emilia was killed by Guardian Shadow Tentacle. He became a spooky ghost!
+[00:36:51]: [Resurrect Announcement] Emilia was resurrected by Touch Stone.
