@@ -1,6 +1,0 @@
-[00:09:51]: [Announcement] unknown : has arrived! : 
-[00:09:51]: [Announcement] unknown : data loaded! : 
-[00:09:51]: [Announcement] Emilia   successfully entered game   Completed Achievement [New Beginning]
-[00:13:46]: [Announcement] unknown : has arrived! : 
-[00:16:16]: [Announcement] unknown : has arrived! : 
-[00:23:47]: [Announcement] unknown : has arrived! : 
